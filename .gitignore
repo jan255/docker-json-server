@@ -1,0 +1,10 @@
+# Claude Code local settings (personal configurations)
+.claude/settings.local.json
+.claude/cache/
+
+# Node modules (if any local development)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
